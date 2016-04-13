@@ -1,4 +1,4 @@
-package com.example.ary.productsapp;
+package com.example.ary.productsapp.Products;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,6 +18,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.example.ary.productsapp.R;
+import com.example.ary.productsapp.Utils.JSONParser;
 
 /**
  * Created by Ary on 1/14/2016.

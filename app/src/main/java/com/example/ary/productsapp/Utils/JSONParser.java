@@ -1,4 +1,4 @@
-package com.example.ary.productsapp;
+package com.example.ary.productsapp.Utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;
