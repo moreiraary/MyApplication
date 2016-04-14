@@ -1,4 +1,4 @@
-package com.example.ary.productsapp;
+package com.example.ary.productsapp.Products;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +19,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.ary.productsapp.R;
+import com.example.ary.productsapp.Utils.JSONParser;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;

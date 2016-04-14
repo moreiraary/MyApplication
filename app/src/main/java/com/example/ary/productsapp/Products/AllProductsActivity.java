@@ -1,4 +1,4 @@
-package com.example.ary.productsapp;
+package com.example.ary.productsapp.Products;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -22,6 +22,9 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
+
+import com.example.ary.productsapp.R;
+import com.example.ary.productsapp.Utils.JSONParser;
 
 /**
  * Created by Ary on 1/14/2016.
